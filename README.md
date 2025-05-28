@@ -7,7 +7,7 @@ Software Engineer | Front-End Developer
 🤔 Seeking help with: React performance optimization, Django REST APIs, and cybersecurity best practices.
 💬 Ask me about: Front-end dev, responsive design, RESTful APIs, or Figma prototyping.
 📫 Reach me:
-Email: adarsh@example.com (update with your email)
+Email: adarshaadhu580@gmail.com (update with your email)
 LinkedIn: linkedin.com/in/adarsh-n (update)
 GitHub: github.com/adarsh-n (update)
 😄 Pronouns: He/Him (or your preference)
